@@ -1,0 +1,8 @@
+.activeTab {
+  color: #fec653;
+  border-bottom: 3px solid #fec653;
+}
+
+.tab-container {
+  margin-right: 4px;
+}
